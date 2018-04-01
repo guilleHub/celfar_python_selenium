@@ -1,4 +1,4 @@
-Feature: Acceptance test
+Feature: Acceptance test Python selenium behave
 
   Scenario: Celfar has a correct title
     Given I am on the home page
